@@ -1,4 +1,3 @@
-This
-is
-my
-project
+This is my project.
+
+This will be amazing.
